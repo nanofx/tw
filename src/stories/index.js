@@ -35,7 +35,7 @@ storiesOf('Twitter Timeline Embed', module)
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            id={'539487832448843776'}
+            userId={1429897651}
             linkColor={'#F44336'}
             theme={'light'}
             options={{ height: 400, tweetLimit: 3 }}
@@ -44,7 +44,7 @@ storiesOf('Twitter Timeline Embed', module)
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            id={'539487832448843776'}
+            userId={61612893}
             linkColor={'#CDDC39'}
             theme={'light'}
             options={{ height: 400, tweetLimit: 3 }}
@@ -53,7 +53,7 @@ storiesOf('Twitter Timeline Embed', module)
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            id={'539487832448843776'}
+            userId={1429897651}
             linkColor={'#4CAF50'}
             theme={'light'}
             options={{ height: 400, tweetLimit: 3 }}
@@ -62,7 +62,7 @@ storiesOf('Twitter Timeline Embed', module)
 		        <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            id={'539487832448843776'}
+            userId={61612893}
             linkColor={'#4CAF50'}
             theme={'light'}
             options={{ height: 400, tweetLimit: 3 }}
@@ -71,7 +71,7 @@ storiesOf('Twitter Timeline Embed', module)
 		        <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            id={'539487832448843776'}
+            userId={1429897651}
             linkColor={'#4CAF50'}
             theme={'light'}
             options={{ height: 400, tweetLimit: 3 }}
