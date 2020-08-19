@@ -77,6 +77,6 @@ storiesOf('Twitter Timeline Embed', module)
             options={{ height: 400}}
           />
         </div>
-      </div>
+     
     ))
   )
