@@ -3,7 +3,7 @@ import React from 'react'
 import { storiesOf, addParameters } from '@storybook/react'
 import { withInfo } from '@storybook/addon-info'
 //import { action } from '@storybook/addon-actions'
-// import { linkTo } from '@storybook/addon-links'
+//import { linkTo } from '@storybook/addon-links'
 import { backgrounds } from './backgrounds'
 import './story.css'
 
@@ -50,6 +50,86 @@ storiesOf('Twitter Timeline Embed', module)
             options={{ height: 400}}
           />
         </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
+        <div className='centerContent'>
+        <div className='selfCenter spaceBetween standardWidth'>
+          <TwitterTimelineEmbed
+            sourceType={'timeline'}
+            userId={1429897651}
+            linkColor={'#F44336'}
+            theme={'light'}
+            options={{ height:400}}
+          />
+        </div>
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
@@ -59,7 +139,7 @@ storiesOf('Twitter Timeline Embed', module)
             options={{ height: 400}}
           />
         </div>
-		        <div className='selfCenter spaceBetween standardWidth'>
+		    <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
             userId={61612893}
@@ -68,7 +148,7 @@ storiesOf('Twitter Timeline Embed', module)
             options={{ height: 400}}
           />
         </div>
-		        <div className='selfCenter spaceBetween standardWidth'>
+		    <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
             userId={1429897651}
