@@ -38,7 +38,7 @@ storiesOf('Twitter Timeline Embed', module)
             userId={1429897651}
             linkColor={'#F44336'}
             theme={'light'}
-            options={{ height:400}}
+            options={{ height:400 }}
           />
         </div>
         <div className='selfCenter spaceBetween standardWidth'>
@@ -47,47 +47,47 @@ storiesOf('Twitter Timeline Embed', module)
             userId={61612893}
             linkColor={'#CDDC39'}
             theme={'light'}
-            options={{ height: 400}}
+            options={{ height: 400 }}
           />
         </div>
         <div className='centerContent'>
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            userId={1429897651}
+            userId={41324638}
             linkColor={'#F44336'}
             theme={'light'}
-            options={{ height:400}}
+            options={{ height:400 }}
           />
         </div>
         <div className='centerContent'>
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            userId={1429897651}
+            userId={226541132}
             linkColor={'#F44336'}
             theme={'light'}
-            options={{ height:400}}
+            options={{ height:400 }}
           />
         </div>
         <div className='centerContent'>
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            userId={1429897651}
+            userId={1088043382788800512}
             linkColor={'#F44336'}
             theme={'light'}
-            options={{ height:400}}
+            options={{ height:400 }}
           />
         </div>
         <div className='centerContent'>
         <div className='selfCenter spaceBetween standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'timeline'}
-            userId={1429897651}
+            userId={1067849967811944448}
             linkColor={'#F44336'}
             theme={'light'}
-            options={{ height:400}}
+            options={{ height:400 }}
           />
         </div>                
      </div>
