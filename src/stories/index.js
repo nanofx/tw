@@ -31,7 +31,8 @@ storiesOf('Twitter Timeline Embed', module)
       text: 'Timeline url example with given profile url'
     })(() => (
       <div className='centerContent'>
-        <div className='selfCenter standardWidth'>
+        <div 
+      className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
@@ -40,7 +41,7 @@ storiesOf('Twitter Timeline Embed', module)
           />
         </div>
 		<div 
-		className='selfCenter standardWidth'>
+		className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
@@ -49,7 +50,7 @@ storiesOf('Twitter Timeline Embed', module)
           />
         </div>
 				<div 
-		className='selfCenter standardWidth'>
+		className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
@@ -58,7 +59,7 @@ storiesOf('Twitter Timeline Embed', module)
           />
         </div>
 				<div 
-		className='selfCenter standardWidth'>
+		className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
@@ -67,7 +68,7 @@ storiesOf('Twitter Timeline Embed', module)
           />
         </div>
 				<div 
-		className='selfCenter standardWidth'>
+		className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
@@ -76,7 +77,7 @@ storiesOf('Twitter Timeline Embed', module)
           />
         </div>
 				<div 
-		className='selfCenter standardWidth'>
+		className='selfCenter'>
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
