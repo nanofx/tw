@@ -31,58 +31,11 @@ storiesOf('Twitter Timeline Embed', module)
       text: 'Timeline url example with given profile url'
     })(() => (
       <div className='centerContent'>
-        <div 
-      className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
+        <div className='selfCenter standardWidth'>
           <TwitterTimelineEmbed
             sourceType={'url'}
             url={'https://twitter.com/delfilietuva'}
-            autoHeight
-          />
-        </div>
-		<div 
-		className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
-          <TwitterTimelineEmbed
-            sourceType={'url'}
-            url={'https://twitter.com/DelfiLV'}
-            autoHeight
-          />
-        </div>
-				<div 
-		className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
-          <TwitterTimelineEmbed
-            sourceType={'url'}
-            url={'https://twitter.com/15minlt'}
-            autoHeight
-          />
-        </div>
-				<div 
-		className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
-          <TwitterTimelineEmbed
-            sourceType={'url'}
-            url={'https://twitter.com/GitanasNauseda'}
-            autoHeight
-          />
-        </div>
-				<div 
-		className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
-          <TwitterTimelineEmbed
-            sourceType={'url'}
-            url={'https://twitter.com/Grybauskaite_LT'}
-            autoHeight
-          />
-        </div>
-				<div 
-		className='selfCenter'>
-		style={{ width: 350, height: 300, margin: 20 }}
-          <TwitterTimelineEmbed
-            sourceType={'url'}
-            url={'https://twitter.com/Skvernelis_S'}
-            autoHeight
+            options={{ height: 400 }}
           />
         </div>
       </div>
