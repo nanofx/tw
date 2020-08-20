@@ -2,8 +2,8 @@ import React from 'react'
 
 import { storiesOf, addParameters } from '@storybook/react'
 import { withInfo } from '@storybook/addon-info'
-//import { action } from '@storybook/addon-actions'
-//import { linkTo } from '@storybook/addon-links'
+import { action } from '@storybook/addon-actions'
+// import { linkTo } from '@storybook/addon-links'
 import { backgrounds } from './backgrounds'
 import './story.css'
 
