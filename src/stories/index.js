@@ -35,7 +35,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/delfilietuva'}
             autoHeight
           />
         </div>
@@ -44,7 +44,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/DelfiLV'}
             autoHeight
           />
         </div>
@@ -53,7 +53,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/15minlt'}
             autoHeight
           />
         </div>
@@ -62,7 +62,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/GitanasNauseda'}
             autoHeight
           />
         </div>
@@ -71,7 +71,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/Grybauskaite_LT'}
             autoHeight
           />
         </div>
@@ -80,7 +80,7 @@ storiesOf('Twitter Timeline Embed', module)
 		style={{ width: 350, height: 300, margin: 20 }}
           <TwitterTimelineEmbed
             sourceType={'url'}
-            url={'https://twitter.com/rahul581'}
+            url={'https://twitter.com/Skvernelis_S'}
             autoHeight
           />
         </div>
