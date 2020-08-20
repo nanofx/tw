@@ -73,6 +73,34 @@ storiesOf('Twitter Timeline Embed', module)
             autoHeight
           />
         </div>
+      				<div className='selfCenter standardWidth' style={{ width: 300, height: 500, margin: 1 }}>
+          <TwitterTimelineEmbed
+            sourceType={'url'}
+            url={'https://twitter.com/DonaldTrump'}
+            autoHeight
+          />
+        </div>
+            				<div className='selfCenter standardWidth' style={{ width: 300, height: 500, margin: 1 }}>
+          <TwitterTimelineEmbed
+            sourceType={'url'}
+            url={'https://twitter.com/BarackObama'}
+            autoHeight
+          />
+        </div>
+                  				<div className='selfCenter standardWidth' style={{ width: 300, height: 500, margin: 1 }}>
+          <TwitterTimelineEmbed
+            sourceType={'url'}
+            url={'https://twitter.com/justinbieber'}
+            autoHeight
+          />
+        </div>
+                        				<div className='selfCenter standardWidth' style={{ width: 300, height: 500, margin: 1 }}>
+          <TwitterTimelineEmbed
+            sourceType={'url'}
+            url={'https://twitter.com/realDonaldTrump'}
+            autoHeight
+          />
+        </div>
       </div>
     ))
   )
